@@ -1,3 +1,8 @@
+---
+tags:
+  - point-of-interest
+---
+
 A mountain range which largely blocks passage to the peninsula of [[Urshim/Thidopem/index|Thidopem]]. It runs W-E with a narrow pass on its western extreme which holds the fortress of [[Pathalje]]. 
 
 # Subterranean Features
